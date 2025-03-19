@@ -18,5 +18,9 @@
     {
         "url": "https://github.com/actual-plugins/pluggyai-connector",
         "version": "0.0.1"
-    }              
+    },
+    {
+        "url": "https://github.com/actual-plugins/dummy",
+        "version": "0.0.1"
+    }                 
 ]
